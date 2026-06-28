@@ -17,13 +17,13 @@ The application follows Domain-Driven Design principles and is structured into t
 
 ## Technology Stack
 
-*Backend Framework: Java 21, Spring Boot
-*Microservices Infrastructure: Spring Cloud (Netflix Eureka, OpenFeign, Spring Cloud Gateway)
-*Message Broker: Apache Kafka
-*Database: PostgreSQL, Spring Data JPA / Hibernate
-*Frontend: React 19, Vite, standard CSS
-*Containerization: Docker, Docker Compose
-*Testing: JUnit 5, Spring Boot Test, PIT (Mutation Testing)
+* Backend Framework: Java 21, Spring Boot
+* Microservices Infrastructure: Spring Cloud (Netflix Eureka, OpenFeign, Spring Cloud Gateway)
+* Message Broker: Apache Kafka
+* Database: PostgreSQL, Spring Data JPA / Hibernate
+* Frontend: React 19, Vite, standard CSS
+* Containerization: Docker, Docker Compose
+* Testing: JUnit 5, Spring Boot Test, PIT (Mutation Testing)
 
 ## Running the Application Locally
 
